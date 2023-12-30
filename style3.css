@@ -1,0 +1,23 @@
+table, th, td, tr
+{
+  padding: 12px;
+  margin: auto;
+  background-color: whitesmoke;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+th
+{
+  padding: 8px;
+}
+td
+{
+	text-align: center;
+}
+h3
+{
+	text-align: center;
+	color: #A00000;
+	margin-top: 25px;
+	padding: 15px;
+}

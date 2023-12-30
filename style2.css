@@ -1,0 +1,13 @@
+table, th, td, tr
+{
+  border: 8px ridge #FF9999;
+  border-collapse: collapse;
+  padding: 12px;
+  margin: auto;
+  background-color: #FFCCCC;
+  margin-top: 50px;
+}
+th
+{
+  padding: 12px;
+}

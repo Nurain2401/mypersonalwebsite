@@ -1,0 +1,46 @@
+.topnav 
+{
+	overflow: hidden;
+	background-color: black;
+	margin: 0;          
+    padding: 0;
+}
+
+.topnav a 
+	{
+		float: right;
+		color: ghostwhite;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-family: garamond;
+		padding-bottom: 20px;
+	}
+
+.topnav a:hover:not(.active)
+	{
+		background-color: #FF3366;
+		color: ghostwhite;
+	}
+.active
+{
+	background-color: #700000;
+	
+}
+
+.topnav a.split 
+	{
+		float: left;
+		background-color: black;
+		color: white;
+		font-family: lucida handwriting;
+		padding-left: 100px;
+		padding-bottom: 0px;
+		text-decoration: none;
+		font-size: 28px;
+	}
+	.topnav a.split:not(.active)
+	{
+		background-color: black;
+	}
+	
